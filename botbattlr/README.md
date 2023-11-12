@@ -20,10 +20,10 @@ Shows the user's enlisted bots. Allows users to release enlisted bots back to th
 Getting Started
 To run Bot Battlr locally, follow these steps:
 
-Clone the repository:
+Clone the repository: https://github.com/Nziza21/Bot-Battlr
 
 bash
-git clone [repository_url]
+git clone [git@github.com:Nziza21/Bot-Battlr.git]
 Navigate to the project directory:
 
 bash
